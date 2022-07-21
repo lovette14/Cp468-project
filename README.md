@@ -12,11 +12,11 @@ The ultimate Halloween Candy Power Ranking - https://www.kaggle.com/datasets/fiv
 3. If you want to use the model on a different feature, change the appropriate lines.
 
 ## Performance parameters used
-Sensitivity of model = 0.7777777777777778
-Specificity = 0.76
-False positive rate = 0.24
-True positive = 0.3684210526315789
-True Negative = 0.95
+ - Sensitivity of model = 0.7777777777777778
+ - Specificity = 0.76
+ - False positive rate = 0.24
+ - True positive = 0.3684210526315789
+ - True Negative = 0.95
 
 ## About Developer
 Fourth year computer science major student at Laurier. 
